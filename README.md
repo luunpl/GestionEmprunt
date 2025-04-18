@@ -3,6 +3,6 @@ Gestion Emprunt est un projet conçu pour faciliter la gestion des emprunts et d
 
 # Comment ça marche ?
 - Le fichier `UML.pdf` correspond à la Partie 1 (Conception d’une base de données).
-- `CREATES.sql` nous aide à créer les tables, transférer les données depuis la base de données `Resa.db`, et créer les vues.
+- `CREATES.sql` permet de créer les tables, de transférer les données depuis la base de données `Resa.db`, et de créer les vues.
 - `QUERY.sql` contient 10 requêtes à pratiquer.
-- Les fichiers `Relation.pdf` et `GestionEmprunt.sqbpro` correspondent à la Partie 2.
+- Les fichiers `Relation.pdf` et `GestionEmprunt.sqbpro` correspondent à la Partie 2 (Implémentation de la base de données en SQL, transfert et requêtes).
